@@ -15,3 +15,4 @@ objeto_literal.signo = 'Gêmeos'
 
 //exibindo objeto literal
 console.log(objeto_literal);
+
