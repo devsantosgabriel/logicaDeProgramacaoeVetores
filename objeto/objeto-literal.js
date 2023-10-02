@@ -4,6 +4,10 @@ const objeto_literal = {
     idade: 29,
     Estudar: function(){
         console.log('Estudando');
+    },
+    objeto_novo:{
+        nome: 'Sérgio',
+        idade: 24
     }
 };
 
@@ -15,4 +19,6 @@ objeto_literal.signo = 'Gêmeos'
 
 //exibindo objeto literal
 console.log(objeto_literal);
+
+console.log(objeto_literal.objeto_novo);
 
